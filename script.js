@@ -10,12 +10,12 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    {songName: "Sam song-Genius 2018 - Dil Meri Na Sune", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
-    {songName: "Om song- Raanjhana Ve - Antara Mitra", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
-    {songName: "aakkee-Kesariya - Brahmastra", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
+    {songName: "Dil Meri Na Sune - Genius 2018", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
+    {songName: "Raanjhana Ve - Antara Mitra", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
+    {songName: "Kesariya - Brahmastra", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
     {songName: "Meri Zindagi Hai Tu - Satyameva Jayate 2", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
-    {songName: "Didaa song-Tu Mileya - Darshan Raval ", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
-    {songName: "Mummy song-Paniyon Sa - Satyameva Jayate", filePath: "songs/6.mp3", coverPath: "covers/6.jpg"},
+    {songName: "Tu Mileya - Darshan Raval ", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
+    {songName: "Paniyon Sa - Satyameva Jayate", filePath: "songs/6.mp3", coverPath: "covers/6.jpg"},
     {songName: "Mann Bharryaa 2 - Shershaah", filePath: "songs/7.mp3", coverPath: "covers/7.jpg"},
     {songName: "Jaan Hai Meri - Radhe Shyam", filePath: "songs/8.mp3", coverPath: "covers/8.jpg"},
     {songName: "Rang Lageya - Mohit Chauhan", filePath: "songs/9.mp3", coverPath: "covers/9.jpg"},
